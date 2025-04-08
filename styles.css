@@ -1,0 +1,70 @@
+/* Base Page Styles */
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 40px;
+}
+
+/* Container Styling */
+.container {
+  max-width: 700px;
+  margin: auto;
+  background-color: #222;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(255, 255, 255, 0.05);
+}
+
+/* Header Styling */
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: #4a90e2;
+  margin-bottom: 20px;
+}
+
+/* Buttons */
+button {
+  background-color: #163973;
+  color: white;
+  padding: 10px 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: #122b5f;
+}
+
+/* Loading Message */
+#loading {
+  margin-top: 10px;
+  color: #f0c040;
+  text-align: center;
+  font-style: italic;
+}
+
+/* Output Area */
+#output {
+  margin-top: 30px;
+  line-height: 1.6;
+}
+
+#output h2 {
+  text-align: center;
+  color: #4a90e2;
+}
+
+#output ul {
+  padding-left: 20px;
+}
+
+#output li {
+  margin-bottom: 5px;
+}

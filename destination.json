@@ -1,0 +1,32 @@
+{
+  "destination": "London",
+  "attractions": [
+    "Tower of London",
+    "British Museum",
+    "Buckingham Palace"
+  ],
+  "weather": {
+    "spring": {
+      "averageHigh": "15°C",
+      "averageLow": "8°C",
+      "description": "Mild with occasional rain"
+    },
+    "summer": {
+      "averageHigh": "22°C",
+      "averageLow": "15°C",
+      "description": "Warm and sunny"
+    },
+    "autumn": {
+      "averageHigh": "14°C",
+      "averageLow": "9°C",
+      "description": "Cool with colorful leaves"
+    },
+    "winter": {
+      "averageHigh": "8°C",
+      "averageLow": "2°C",
+      "description": "Cold and cloudy"
+    }
+  },
+  "visited": true,
+  "bestTimeToVisit": "May to September"
+}
